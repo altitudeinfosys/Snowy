@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_logon"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#fffc970b"
+    tools:context="com.altitudeinfosys.snowy.ui.SplashActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="270dp"
+        android:src="@mipmap/ic_launcher"
+        android:id="@+id/imageViewLogo"
+        android:elevation="2dp"
+        tools:padding="15dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/imageViewLogo"
+        android:paddingTop="20dp">
+
+        <Button
+            android:text="Sign in with Email "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="login"
+            android:id="@+id/btnEmail" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:text="Don't have an account - Sign UP NOW"
+            android:ems="12"
+            android:id="@+id/et_signup"
+            android:onClick="startSignUp"
+            android:textAlignment="center"
+            android:layout_marginTop="35dp"/>
+    </LinearLayout>
+
+</RelativeLayout>

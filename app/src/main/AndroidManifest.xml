@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="altitudeinfosys.com.snowy"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.altitudeinfosys.snowy.ui.SplashActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.altitudeinfosys.snowy.ui.RecurringMainActivity" />
+
+        <service android:name="com.altitudeinfosys.snowy.ui.VoiceService" />
+
+        <receiver
+            android:name="com.altitudeinfosys.snowy.MyScheduledReceiver"
+            android:process=":remote" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyBKSeFFn8NZvVboc5juLJDt8WyCWjNO6RM" />
+
+        <activity
+            android:name="com.altitudeinfosys.snowy.SettingsActivity"
+            android:label="@string/title_activity_settings" />
+        <activity
+            android:name="com.altitudeinfosys.snowy.ui.HourlyForecastActivity"
+            android:label="@string/title_hourly_activity" />
+        <activity
+            android:name="com.altitudeinfosys.snowy.ui.DailyForecastActivity"
+            android:label="@string/title_daily_activity" />
+        <activity android:name="com.altitudeinfosys.snowy.ui.NotificationView" />
+        <activity android:name="com.altitudeinfosys.snowy.ui.SignUpActivity" />
+        <activity android:name="com.altitudeinfosys.snowy.ui.StartupActivity" />
+        <activity android:name="com.altitudeinfosys.snowy.ui.LoginActivity"></activity>
+    </application>
+
+</manifest>

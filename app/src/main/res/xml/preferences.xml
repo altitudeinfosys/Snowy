@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="Snowy Settings">
+
+        <EditTextPreference android:title="Your Name?"
+            android:key="your_name"
+            android:summary="Enter the name that you would like to use when Snowy Talks to you"
+            android:defaultValue=""></EditTextPreference>
+        <EditTextPreference android:title="Refresh Time"
+            android:key="refresh_time"
+            android:summary="How Often you want Snowy Update in minutes?"
+            android:defaultValue="5"></EditTextPreference>
+        <ListPreference
+            android:key="view_list"
+            android:title="Layout Format"
+            android:summary="Chooe what kind of layout you want?"
+            android:entries="@array/listentries"
+            android:entryValues="@array/listvalues"
+            android:defaultValue="1"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Snowy Audio Settings">
+        <CheckBoxPreference android:title="Snowy Voice"
+            android:defaultValue="false"
+            android:summary="Speak the Temperature"
+            android:key="speakTemperature" />
+
+        <CheckBoxPreference android:title="Say Name?"
+            android:defaultValue="false"
+            android:summary="Speak or say the name if available"
+            android:key="speakName" />
+
+        <CheckBoxPreference android:title="Give forecast for tomorrow?"
+            android:defaultValue="false"
+            android:summary="Give forecast for tomorrow"
+            android:key="speakForecast" />
+        <ListPreference
+            android:key="what_time_speak_forecast"
+            android:title="Around What Time Snowy Should speak or say Forecast?"
+            android:summary="Around What Time Snowy Should speak or say Forecast?"
+            android:entries="@array/hours_entries"
+            android:entryValues="@array/hours_values"
+            android:defaultValue="1"/>
+
+        <EditTextPreference android:title="Speak Voice Refresh Time"
+            android:key="speak_refresh_time"
+            android:summary="What Intervals you want Snowy to Speak the Temperature in minutes?"
+            android:defaultValue="60"></EditTextPreference>
+
+        <CheckBoxPreference android:title="Speak Summary Changes"
+            android:defaultValue="false"
+            android:summary="Speak and Say Summary Changes"
+            android:key="speakSummary" />
+        <CheckBoxPreference android:title="Speak Weather Alerts? "
+            android:defaultValue="false"
+            android:summary="Speak and Say Weather Alerts?"
+            android:key="speakAlerts" />
+
+        <CheckBoxPreference android:title="Show Alert Notification? "
+            android:defaultValue="true"
+            android:summary="Show Alert Notification when Alerts Occur"
+            android:key="AlertNotification" />
+
+        <ListPreference
+            android:key="what_volume_speak_forecast"
+            android:title="Snowy Voice Volume?"
+            android:summary="Around What Time Snowy Should speak or say Forecast?"
+            android:entries="@array/volume_entries"
+            android:entryValues="@array/volume_entries"
+            android:defaultValue="1"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Snowy Main Settings">
+
+    <CheckBoxPreference android:title="Screen ON Always? "
+        android:defaultValue="true"
+        android:summary="Should be screen on all the time?"
+        android:key="screenOn" />
+
+    <CheckBoxPreference android:title="Voice Reporting ONLY? "
+        android:defaultValue="true"
+        android:summary="Voice Reporting without layout?"
+        android:key="VoiceReportingOnly" />
+
+    <ListPreference
+            android:key="mode_list"
+            android:title="Snowy Mode"
+            android:summary="Choose your preferred Snowy Mode?"
+            android:entries="@array/modeEntries"
+            android:entryValues="@array/modeEntries"
+            android:defaultValue="1"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

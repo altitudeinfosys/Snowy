@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="400dp"
+        android:layout_marginTop="50dp"
+        android:textColor="@android:color/black"
+        android:text="Hi, Your Detailed notification view goes here...."
+        android:id="@+id/notificationText"
+        tools:textSize="24sp"
+        android:lineSpacingExtra="8sp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+
+    <Button
+        android:text="Back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnClose"
+        android:onClick="close"
+        android:gravity="bottom|center_horizontal"
+        android:isScrollContainer="true"
+        android:layout_gravity="bottom"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

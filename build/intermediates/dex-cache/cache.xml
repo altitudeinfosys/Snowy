@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\6a5aa28cdb153e913c8815f9e5276c83dc370f1e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6b9a33bd014ab0dbe77ac7d96fe269d4286b2de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\7bc12f6327a84d23d488c69b55a84fcb867215c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc115f088437c4c38bb8ede716b1f9a490ad19ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.5.2_6d9a2229d86a3e0982af1f1caf12aa39c4bbb63a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_fe7480820c20c289a17422f6ee907fbcc1697ea1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\a162deae02658125dc3112cfe8669d58f67c9345\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2fc412df248b98bed089b204dc4472b49a740d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\e69fb8fca5a074b93efd337b5795de257652219b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f17b96e442b5c5ac728a69c278cf7066b33c5a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ddc8492ee6223d25ec87e5dd0faadd268975c6c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.12_039146afcdccda88809a34f9be70efbb0018f7a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\7b1c2e740b6738a57a8ea9a0a332b5d624bc7ce0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d428069e5f76ebdedb072aa5726a562f4669d6e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\c072c819ee76004ed0b8eaec58fabffc6dd1474c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0752749730c0c0066984186d322b1a9c61ed397\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\66af8c5669ec8a170eb21613150466394a5d0a96\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1341ed0b0285a0b8fd11ddea4c7990da85e8bd07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.2.0\c0b52915a48fa91b1b94a28d4a2997bac5f524df\okio-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.2.0_85d217d7e328d4b61bf32283ba2c7448f34a5806\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\31f15c02eb6e1e7d63df212f49b3e1a4ec4182e5\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_9fd6ae615bb15b238120b7ec1e93ddf930544532\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\0c044c4724a5a44fec0afe6acd1d6229915ddbfe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a94263378e97a870931afd79d4d8464dfdbfa7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\c538945253da720b27a924b83a1b78ce16e906c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e9ee8aefbd53e0b5fc442bdc3038f83f45202a30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\357219f85cff26592e8c1ce67682a4d21ea2b291\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47f1998fd9c5ebcc2d2867354467aa80e2b76df7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\40b5d06a2752dbd314459dde688849ceb2324208\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21d6ed78afe3521ce049ba33ac77036f176ed0b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\e7fdc74c5afb38229464208b82ed9d11c9e06f66\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41ad08793b6d64006808a8fd3be24d36c115cc69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\af077b1b868cb3ca712899c21a251201ae0c165d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3dbd599d1bf993269d794aa9d8c428fbeb74f558\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf057a66eeccc1015364936282a69f87d3a8e8ec">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d7c17d5e62936ac4b0bf75b65ea2b918ffcba7e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\e58a3bb6e51aeb8868eb8bc0a11ee1122590f6a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a97235742cb298c1cfa5169b0a823082c68ad33d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\6db2a74fa8a34ea74faa1f392f1baecea0af8057\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9cdabfc7d2d865779061be3cad60700150e3fde6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_72f4e8547b873e2927a08233ac0fb7164093572a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\fe99d24a1a0e779b96be76ec44060c1bfbf0a56e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c54ad6cf80e5741aba776c2f32686448522cd62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\e48a17c1285a24c41b2bb79dc1cfa82e23ba251e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77f765a91f38600c8aec1882ae468c8a422fac57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\42fe7741be774201439f01e559c2bc9f9ed884aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8917f07a618a27c194759c2e9e9153cf8cdb791c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\29fad35595e760cace7925efebf44c6e7291b790\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97398e88483b6027c4de9e2cb1687fb104bfca5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\557f13a47c3eba4825f40949e51b9332eb085d7b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b97e71e6d522e880f2d92af7cf8ce596828d6cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\8cd33f7844e02ecfe2fc39e2fd5ce01cc51d7c7b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad7465de68e48146c8dc92cced6951f8e4369a86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\11e74d5043caaf056a514f8b26851beddb4fcbb5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8ac0b211b07319eba5b28d45450b3b30754d056\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\6c4e5a1310bb6c333d2b2538a53d89243647cc91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63d5a046fe5f50e5d3be690f64b1c4b3e0d7a2cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\23406ecb92be4233fb2bb1bc67a47af130d4b0fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a69141a4564ba9cb8f6ed09b2d61f6679aa6b693\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\4322a61cc33c4ee3923b89e5b02aea5b113d722e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14b8f38f85cd3a53286059c65f672280f126e684\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\4211619d7b02cc983094f92243b17797e2da8ab5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_697809536e8510cfd34787d69f042c10162d6c24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\7acc64bae2915c887b0497a5c1b1f028d7768702\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de6e7105324f590d278d7928075c3255b0ced7ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\31f15c02eb6e1e7d63df212f49b3e1a4ec4182e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5fe1cb952df13c4c780f2cf976641a14e4884dc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_3d7c6ed68b031b986fa3047cfee5ae93002c08c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\29295da6e640d890faeb7b1a8e4909181b28c384\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2f1aa02a7feac0c088a26057c3db84a5454d3eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.2.1_4aec5f6ffbd14c202f1e0f2f65f73d228776f3db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\03bffe4f010262bfa8f4d4be59624929f26ec704\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ee1970410b9dfe6b6be49f2419d3ac73e246caf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\3248303fb2de1f4f31f95521549ffd688b0a95a1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f576672dcdc56c1ca2730324c55c293fe86fca9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\6c27bdc37c007dbb247652022b0d73aa546ae5a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db9c314f138e3d8f04cecc58a675c775fba0974f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\eb22922d0240eaa5fb398b921f9beacc0e6a842f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2eddbdf426bed56345e1068b78865c1cbf654ac1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\ba4401da8f05fed3211523916ff418738aaa5c3b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7f6e05f15ab1b4e55fbf0237cea963ee3ec7ab5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\ff962e260a5a2e415ba51bf3ef50031d065f00bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_560dacf9bfab28b2cd4a7b879b3d438e5c5214ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\eb9d027326695ff0d218e395acb6b4901226e64e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77c70f9ca60cd2c3ba1a7b5c2c05f6262d69bf96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\12f032f06e68cc9bad8908109c7115a52025b5bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f482a9bd09ba57b0d064cd621b9c6a94d0cba68f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\2c22e3089968b85c7f1a7c46f6deb82ca1a3c50a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="735f52d952785f327a7f05ededa9da7d92ffccca">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7bd4f121e904aa95d8d713d456aacab13b158eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\a79b67e1ac3cb0b32309d68a5555f876f0f125ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97556080e81ada68081e06920bb5e0773b984911\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\da6ff17e4f879e976df6907fa11f5b1df5fe2259\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f584658bda8db4581dbff056210972a39a4eb75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.2.0_1613da5198a731479d8c1d7a3de9a2e4be418481\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\fb4ec0795717d7307be2f03079166d29b3fc1eb6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b68fd256b386c3b2c0de76334e905d567acf117\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\7949e14a68c4f5c994e38f50a47555ecd908ab84\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8df46715040e0ba72be01ff1fba25d56e84c96d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\a3c12acd7676a5d4c17526d8eb37d1d357786b5e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0612baa1aab4025f6f27a12fc647e8f868e5978b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\a9316cf5fe1ccf4dad12e552f2a697971dbda7b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8841efb97a012b874a089bc1177aed401a53e43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.5.2_f8857485f16296ca850dd9c7f56baae89b67273e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\886b44a5dabb3efa90f9fc5e90458dd3fd45d0b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22043c893eca7f60cda6e2e983b5617b75951d92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\d68180a09a19b58f42c10ba06d674e303105aadb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c9a6333a85cca435d62be307dc2dd7fdcbd4b4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\b308bec672b77fcffa4a1dcba592b69e09015b68\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c93268f8e8c4ef0d43bd7c10cbba0f43dd74d828\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\eac22953d5d776d3840c29bff9343fb7ff49697b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2de2620d6a9f6255e88c23a394182049d5d2afae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\c6b1bdc4f8530e064cbc39b5cb8c4c759a9222fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ea2dc81f78962ce298a21cb36f4011de7398198\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\b6351ec7d7a5449457cce5530cda4c855631e7c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5a70b965a58a4b713cacd9d6ebf5b9dd4fab3f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\37302b034622fd34319ff94d75b1c86685422c28\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a6bca89e77240d969b9eb90005b79df724ca72d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\63e9468b54a58f5a0142983cc21d0caa319525c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86ed74760fdd0e59bf941c88059e0f1099089fb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\5c1c17027e005820c358529bcb8ae7ebb61f8cb4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42f01a2d712dc06df36dfb1d188c70cd537455f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\55c8bde43b27e210b5447b126e4dc8a93228e1b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_515c3a3c56ba18218127c9ee75852422eaebbf1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\edfa29c8fd51a1ef4bd59aaee929a887003f5ba1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af7dd44a98e139e8bdd7d4d466ac5169f63d83bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\fd85e66ba713f6a452e46e3647736394ec58e8ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc7e2f1f46c1584684f637923a866a588f3bf3f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\2ef5e10f09ef787c5b61e89d0119944d31286ffb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f377a29d630fdae07d7589280a66b8ae6868edf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\232be7d2691314cf8d9a4c6d6cb836075e87dc35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fff9c1de327191618f4244b8f243285353a644a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.android\build-cache\e48a17c1285a24c41b2bb79dc1cfa82e23ba251e\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_9455d1892f3f66086ba3c482a7acc4845528d404\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aladd\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\aladd\OneDrive\Dropbox\AndroidStudioProjects\Snowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_7721d4b603cdc3fe69a5ce911f11f19b342903f9\classes.dex" />
+    </item>
+
+</items>

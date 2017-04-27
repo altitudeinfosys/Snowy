@@ -1,0 +1,195 @@
+<!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".RecurringMainActivity"
+    android:background="#fffc970b">-->
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:shrinkColumns="*"
+    android:stretchColumns="*"
+    android:background="@drawable/bg_gradient">
+
+
+    <TableRow android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:gravity="center">
+
+
+
+            <TextView
+                android:layout_width= "wrap_content"
+                android:layout_height= "wrap_content"
+                android:text="Austin, Texas"
+                android:id="@+id/locationLabel"
+                android:textColor="@android:color/white"
+                android:textSize="24sp"
+                android:layout_alignBottom= "@+id/refreshImageView"
+                android:padding="5dip" android:gravity="center"
+                android:layout_centerHorizontal= "true" />
+
+            <ImageView
+                android:layout_width= "wrap_content"
+                android:layout_height= "wrap_content"
+                android:id="@+id/refreshImageView"
+                android:src="@drawable/refresh"
+                android:padding="5dip" android:gravity="center"
+                android:layout_alignParentRight= "true"
+                android:layout_alignLeft= "@+id/progressBar"
+                android:layout_alignStart= "@+id/progressBar" />
+
+            <ProgressBar
+                android:layout_width= "wrap_content"
+                android:layout_height= "wrap_content"
+                android:id="@+id/progressBar"
+                android:padding="5dip" android:gravity="center"
+                android:layout_alignTop= "@+id/refreshImageView"
+                android:layout_alignParentRight= "true" />
+    </TableRow>
+
+    <TableRow android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:gravity="center_horizontal">
+        <TextView
+            android:layout_width= "match_parent"
+            android:layout_height= "wrap_content"
+            android:text="Current Time"
+            android:id="@+id/timeLabel"
+            android:layout_span="3"
+            android:textColor="#80ffffff"
+            android:textSize="27sp"
+            android:textStyle="bold"
+            android:gravity="center" />
+
+
+    </TableRow>
+
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent">
+
+        <RelativeLayout android:layout_width="wrap_content"
+            android:layout_height="fill_parent" android:gravity="left" android:layout_span="2" >
+
+
+            <TextView
+                android:layout_width= "wrap_content"
+                android:layout_height= "wrap_content"
+                android:text="--"
+                android:id="@+id/temperatureLabel"
+                android:textColor="@android:color/white"
+                android:textSize="115sp"
+                android:gravity="center"
+                android:textIsSelectable= "true" />
+
+            <ImageView
+                android:layout_width= "wrap_content"
+                android:layout_height= "wrap_content"
+                android:id="@+id/degreeImageView"
+                android:layout_alignTop= "@+id/temperatureLabel"
+                android:layout_toRightOf= "@+id/temperatureLabel"
+                android:layout_toEndOf= "@+id/temperatureLabel"
+                android:src="@drawable/degree"
+                android:gravity="center"
+                android:layout_marginTop= "50dp"/>
+
+            <TextView
+                android:layout_width= "wrap_content"
+                android:layout_height= "wrap_content"
+                android:text= "RAIN/SNOW?"
+                android:textSize= "25sp"
+                android:id= "@+id/precipLabel"
+                android:textColor= "#80ffffff"
+                android:layout_alignParentRight= "true" />
+
+            <TextView
+                android:layout_width= "wrap_content"
+                android:layout_height= "wrap_content"
+                android:text= "--"
+                android:layout_below="@+id/precipLabel"
+                android:id= "@+id/precipValue"
+                android:textColor= "@android:color/white"
+                android:textSize= "55sp"
+                android:layout_alignParentRight= "true" />
+
+
+
+        </RelativeLayout>
+
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left" >
+
+            <TextView
+                android:layout_width= "wrap_content"
+                android:layout_height= "wrap_content"
+                android:text="Getting current weather..."
+                android:id="@+id/summaryLabel"
+
+                android:layout_marginLeft="130dp"
+                android:textColor="@android:color/white"
+                android:textSize="40dp"
+                android:gravity="right"
+                android:padding="10dip"/>
+
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal" >
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            tools:context=".LinearLayout" >
+            <Button
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:text="HOURLY"
+                android:id="@+id/hourlyButton"
+                android:layout_weight="1"
+                android:background="#40FFFFFF"
+                android:textColor="#FFFFFFFF"
+                android:layout_marginRight="10dp" />
+
+            <Button
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:text="DAILY"
+                android:id="@+id/dailyButton"
+                android:layout_weight="2"
+                android:background="#40FFFFFF"
+                android:textColor="#FFFFFFFF"
+                android:layout_marginRight="10dp" />
+
+            <Button
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:text="BACK to Settings"
+                android:id="@+id/backButton"
+                android:layout_weight="3"
+                android:background="#40FFFFFF"
+                android:textColor="#FFFFFFFF" />
+        </LinearLayout>
+
+    </TableRow>
+
+    </TableLayout>
